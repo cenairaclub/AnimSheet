@@ -1,6 +1,7 @@
 # 🎬 AnimSheet - Bring Your Spritesheets to Life!
 
 ![Plugin Screenshot Placeholder](images/demo.png)
+
 **SpriteSheet Source:** [Snoblin's Pixel RPG Free NPC](https://snoblin.itch.io/pixel-rpg-free-npc)
 
 ✨ **Turn your static sprite sheets into fully-animated characters with just a few clicks!** ✨
