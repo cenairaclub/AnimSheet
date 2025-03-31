@@ -1,6 +1,6 @@
 # 🎬 AnimSheet - Bring Your Spritesheets to Life!
 
-✨ **Turn your static sprite sheets into fully-animated characters with just a few clicks!** ✨
+✨ **Turn your sprite sheets into fully-animated sprites with just a few clicks!** ✨
 
 
 ![Plugin Screenshot](images/demo.png)
@@ -8,7 +8,7 @@
 
 **SpriteSheet Source:** [Snoblin's Pixel RPG Free NPC](https://snoblin.itch.io/pixel-rpg-free-npc)
 
-Say goodbye to the hassle of manually setting up animations in Godot! AnimSheet lets you **effortlessly create `Sprite2D` and `AnimationPlayer` nodes** directly from your sprite sheets. Just **load**, **define**, and **animate** – it's that easy! 🚀
+Say goodbye to the hassle of manually setting up Animation Player ! AnimSheet lets you **effortlessly create `Sprite2D` and `AnimationPlayer` nodes** directly from your sprite sheets. Just **load**, **define**, and **generate animation** – it's that easy! 🚀
 
 ---
 
