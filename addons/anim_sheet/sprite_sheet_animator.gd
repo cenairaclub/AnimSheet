@@ -614,14 +614,14 @@ func add_animation_definition(start_col: int, start_row: int, end_col: int, end_
 
 	# Generate unique default name
 	var base_name = "Anim"
-	var anim_name = base_name + str(next_anim_index)
+	var anim_name = base_name + str(next_anim_index).pad_zeros(3)
 	var name_exists = true
 	while name_exists:
 		name_exists = false
 		for existing_anim in animations:
 			if existing_anim["name"] == anim_name:
 				next_anim_index += 1
-				anim_name = base_name + str(next_anim_index)
+				anim_name = base_name + str(next_anim_index).pad_zeros(3)
 				name_exists = true
 				break
 	next_anim_index += 1 # Increment for the *next* animation
